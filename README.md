@@ -8,7 +8,7 @@ introduction_to_programming_practicum8
 Collaborators
 Anthony Coop Boaz Vanquaillie
 
-Discription of the project/program
+Discription of the project/introducing_to_programming
 
 This is Repo is used to get use to github and git.
 Working together in group
